@@ -1,5 +1,6 @@
 ## Welcome to Gboard clipboard, any text you copy will be saved here.
 
+![Ding](https://pbs.twimg.com/media/HL4iUrQWUAA_Q0l?format=jpg&name=4096x4096)
 <!--
 
 **Here are some ideas to get you started:**
