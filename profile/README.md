@@ -1,4 +1,4 @@
-## Welcome to Gboard clipboard, any text you copy will be saved here.
+## Not Important, Just Messing Around
 
 ![Ding](https://pbs.twimg.com/media/HL4iUrQWUAA_Q0l?format=jpg&name=4096x4096)
 <!--
